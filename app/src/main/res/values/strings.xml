@@ -3,5 +3,9 @@
     <string name="Start">Начать</string>
     <string name="Valuse1">Вертикальный машинный центр</string>
     <string name="Valuse2">Горизонтальный машинный центр</string>
+    <string name="Holl_diametr">Диаметр</string>
+    <string name="Holl1">Отверстие</string>
+    <string name="Holl_deep">Глубина</string>
     <string name="Back">Назад</string>
+    <string name="Waste">Отход</string>
 </resources>
